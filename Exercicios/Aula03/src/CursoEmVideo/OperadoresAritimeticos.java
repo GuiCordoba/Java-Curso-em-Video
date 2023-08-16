@@ -46,11 +46,7 @@ public class OperadoresAritimeticos {
 		double aleatorio = Math.random();
 		int n = (int) (5 + aleatorio * (10-5)); //aleatorio entre um intervalo especifico
 		System.out.println(n);
-		
-				
-		
-		
-		
+	
 
 	}
 
