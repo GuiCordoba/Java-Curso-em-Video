@@ -9,7 +9,7 @@ public class Exercicio03 {
 		for(int valor: vet) {
 			System.out.print(valor + " ");
 		}
-		int v = Arrays.binarySearch(vet, 1);
+		int v = Arrays.binarySearch(vet, 1); //Procura em qual posição se encontra o valor 1
 		System.out.println();
 		System.out.println("O valor foi encontrado na posicao " + v);
 
